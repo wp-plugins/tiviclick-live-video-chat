@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Welcome to the <a href="www.tiviclick.com">Tiviclick</a> – Video Chats for Every Site.
+Welcome to the <a href="www.tiviclick.com">Tiviclick</a> Video Chats for Every Site.
 
 Live Video Chat with customers enables your business to sell more and establish personal relations as a major key success factor.
  <ul>
