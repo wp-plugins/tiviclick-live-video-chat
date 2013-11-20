@@ -1,7 +1,7 @@
 === TiviClick Video Chats for Every Site ===
 Contributors: Iftach Ben Zvi
 Donate link: http://tiviclick.com/
-Tags: video chat, Chat, crm, help desk, agents, service 
+Tags: Video Chat, crm, help desk, agents, service 
 Requires at least: 3.0.1
 Tested up to: 3.7
 Stable tag: 1.0.2
@@ -63,10 +63,10 @@ You can define agents who can accept calls. Agents needs to login to Tiviclick s
 = 1.0 =
 First relase
 = 1.0.1 =
-Change is readme
+Update readme.txt
 
 = 1.0.2 =
-Change is readme. Add screenshots.
+Update  readme.txt and Add screenshots.
 
 == Upgrade Notice ==
 = 1.0.2 = 
