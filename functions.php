@@ -19,9 +19,13 @@ function fn_tiviclick_settings() {
 	$err_msg = '';
 	$submit = FALSE;
 	if(isset($_POST['actidsubmit'])) {
-		$acct_id = intval($_POST['act_tiviclick']);
-		delete_option('tiviclick_accountid');
-		add_option('tiviclick_accountid',$acct_id);
+        $acct_id = intval($_POST['act_tiviclick']);
+        delete_option('tiviclick_accountid');
+        add_option('tiviclick_accountid',$acct_id);
+        
+		$use_lang = intval($_POST['lang_tiviclick']);
+		delete_option('tiviclick_uselang');
+		add_option('tiviclick_uselang',$use_lang);
 		$submit = TRUE;		
 	}
 	
@@ -43,11 +47,19 @@ function fn_tiviclick_settings() {
           <form method="post" action="">
 			  <table class="form-table">
 				<tbody>
+                  <tr valign="top">
+                    <th class="row">Account ID:</td>
+                    <td>
+                      <input type="text" value="<?php echo get_option('tiviclick_accountid',''); ?>" id="act_tiviclick" name="act_tiviclick">
+                      <p class="description">Here enter your account ID which you get from the Tiviclick Site. If you don't have your account ID<br /> please register <a href="http://www.tiviclick.com" target="_blank">here</a> for a free account if you don't have one yet and get the ID.</p>
+                    </td>
+                  </tr>
 				  <tr valign="top">
-					<th class="row">Account ID:</td>
+					<th class="row">Use site Language:</td>
 					<td>
-					  <input type="text" value="<?php echo get_option('tiviclick_accountid',''); ?>" id="act_tiviclick" name="act_tiviclick">
-					  <p class="description">Here enter your account ID which you get from the Tiviclick Site. If you don't have your account ID<br /> please register <a href="http://www.tiviclick.com" target="_blank">here</a> for a free account if you don't have one yet and get the ID.</p>
+					  <input type="checkbox" value="1" id="lang_tiviclick" name="lang_tiviclick" <?php if (get_option('tiviclick_uselang','0') == '1') echo "checked=\"checked\"" ; ?>>
+					  <p class="description">When the checkbox is checked, Tiviclick plugin will use the langiage according to the Site's locale <br /> Otherwise, Tiviclick plugin will use the language defined in your Tiviclick account.<br>
+                        Please verify that the languages you are using are supported by Tiviclick, If they are not, please contact Tiviclick </p>
 					</td>
 				  </tr>
 				  <tr>
@@ -69,11 +81,18 @@ function fn_tiviclick_settings() {
 add_action('wp_footer', 'fn_tiviclick_script');
 
 function fn_tiviclick_script() {
-	$acc_id = intval(get_option('tiviclick_accountid'));
-	if($acc_id!='') {
+    $acc_id = intval(get_option('tiviclick_accountid'));
+	$use_lang = intval(get_option('tiviclick_uselang'));
+    $lang_str = "";
+    if ($use_lang) {
+        $locale = get_locale();
+        list ($lang, $country) = explode("_", $locale);
+        $lang_str = "&lang=".$lang;
+    }
+   	if($acc_id!='') {
 		?>
-			<div id="tiviclick_external"></div>        
-			<script type="text/javascript"  src="http://www.tiviclick.com/plugin/js/?account_id=<?php echo $acc_id; ?>" > </script>
+			<div id="tiviclick_external" class="<?PHP echo get_locale(); ?>"></div>        
+			<script type="text/javascript"  src="http://www.tiviclick.com/plugin/js/?account_id=<?php echo $acc_id.$lang_str; ?>" > </script>
 		<?php
 	}
 }

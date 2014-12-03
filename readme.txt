@@ -1,10 +1,10 @@
 === TiviClick Video Chats for Every Site ===
 Contributors: Iftach Ben Zvi
 Donate link: http://tiviclick.com/
-Tags: Video Chat, crm, help desk, agents, service 
+Tags: video chat, 
 Requires at least: 3.0.1
 Tested up to: 3.7
-Stable tag: 1.0.2
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -68,6 +68,9 @@ Update readme.txt
 = 1.0.2 =
 Update  readme.txt and Add screenshots.
 
+= 1.1 =
+Support multiple languages, according to site's locale.
+
 == Upgrade Notice ==
-= 1.0.2 = 
+= 1.1 = 
 Fully compatible
