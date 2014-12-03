@@ -54,7 +54,7 @@ Tiviclick is "freemium": The basic service is free. Premium features require mon
 You can define agents who can accept calls. Agents needs to login to Tiviclick site, once an agent is login the system will show him as available to the guests. When a guest fills a call request the agent will imediately see it and will be able to start chat.
 
 == Screenshots == 
-1. List of agents. The guest can see which agent is available and select the agent to call.
+1. List of agents. The guest can see which agent is available and select the agent to call
 2. Guest see an incomming chat from the agent
 3. Chat
 4. In case an agent is not available, the guest can send message to the agent
