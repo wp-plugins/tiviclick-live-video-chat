@@ -64,7 +64,6 @@ You can define agents who can accept calls. Agents needs to login to Tiviclick s
 First relase
 = 1.0.1 =
 Update readme.txt
-
 = 1.0.2 =
 Update  readme.txt and Add screenshots.
 
