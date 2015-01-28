@@ -3,14 +3,14 @@ Contributors: Iftach Ben Zvi
 Donate link: http://tiviclick.com/
 Tags: video chat, 
 Requires at least: 3.0.1
-Tested up to: 3.7
-Stable tag: 1.1
+Tested up to: 4.1
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Welcome to the <a href="www.tiviclick.com">Tiviclick</a> Video Chats for Every Site
+Welcome to the <a href="www.tiviclick.com">Tiviclick</a> Video Chats for Every Site.
 
 Live Video Chat with customers enables your business to sell more and establish personal relations as a major key success factor.
  <ul>
