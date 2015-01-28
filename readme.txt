@@ -60,7 +60,6 @@ You can define agents who can accept calls. Agents needs to login to Tiviclick s
 4. Chat
 5.
 6. Download Tiviclick Agent's App. to your Android mobile device 
-7.
 
 == Changelog ==
 = 1.0 =
