@@ -70,6 +70,9 @@ Update  readme.txt and Add screenshots.
 = 1.1 =
 Support multiple languages, according to site's locale.
 
+= 2.0 =
+Update  readme.txt and screenshots.
+
 == Upgrade Notice ==
 = 1.1 = 
 Fully compatible
