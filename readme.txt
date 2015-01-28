@@ -74,5 +74,5 @@ Support multiple languages, according to site's locale.
 Update  readme.txt and screenshots.
 
 == Upgrade Notice ==
-= 1.1 = 
+= 2.0 = 
 Fully compatible
