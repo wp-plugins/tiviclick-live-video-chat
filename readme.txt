@@ -54,13 +54,13 @@ Tiviclick is "freemium": The basic service is free. Premium features require mon
 You can define agents who can accept calls. Agents needs to login to Tiviclick site, once an agent is login the system will show him as available to the guests. When a guest fills a call request the agent will imediately see it and will be able to start chat.
 
 == Screenshots == 
-1. Chat
+1. tiviClick
 2. List of agents. The guest can see which agent is available and select the agent to call
 3. Live Video Chat between non-registered Visitor and your website's Agent
 4. Chat
-5. Chat
+5. tiviClick App
 6. Download Tiviclick Agent's App. to your Android mobile device 
-7. Chat
+7. Chat history
 
 == Changelog ==
 = 1.0 =
