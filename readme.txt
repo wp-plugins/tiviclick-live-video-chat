@@ -58,9 +58,8 @@ You can define agents who can accept calls. Agents needs to login to Tiviclick s
 2. List of agents. The guest can see which agent is available and select the agent to call
 3. Live Video Chat between non-registered Visitor and your website's Agent
 4. Chat
-5. tiviClick App
-6. Download Tiviclick Agent's App. to your Android mobile device 
-7. Chat history
+5. Download Tiviclick Agent's App. to your Android mobile device 
+6. Chat history
 
 == Changelog ==
 = 1.0 =
