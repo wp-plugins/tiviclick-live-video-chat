@@ -74,7 +74,7 @@ Video Chat with customers transforms your website into the active front desk of 
 <strong>Pricing:</strong>
 <ul>
 <li>Free 1 month trial.</li>
-<li>See pricing at  <a href="http://www.tiviclick.com/pricing">www.tiviclick.com/pricing</a><li>
+<li>See pricing at  <a href="http://www.tiviclick.com/pricing">www.tiviclick.com/pricing</a></li>
 </ul>
 
 <strong>Operator's guide:</strong>
