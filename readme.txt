@@ -37,7 +37,7 @@ Video Chat with customers transforms your website into the active front desk of 
 <li>Save a lot of Time, Travel and Money - meet people in live Video Chat.</li>
 <li>Provide remote Consulting.</li>
 <li>Interview new job candidates.</li>
-<li>Save Time, Travel and Money.<li>
+<li>Save Time, Travel and Money.</li>
 <li>Schedule business meetings.</li>
 </ul>
 
@@ -49,7 +49,7 @@ Video Chat with customers transforms your website into the active front desk of 
 <li>Show or hide Agents list at your website.</li>
 <li>Show availability status of agents.</li>
 <li>Mail message to Agent when unavailable.</li>
-<li>Registered Agent can invite by mail with secret code any other person to chat.<li>
+<li>Registered Agent can invite by mail with secret code any other person to chat.</li>
 <li>Multi language widget.</li>
 <li>Chats history.</li>
 </ul>
