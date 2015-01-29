@@ -1,7 +1,7 @@
 === TiviClick Video Chats for Every Site ===
 Contributors: Iftach Ben Zvi
 Donate link: http://tiviclick.com/
-Tags: video chat, 
+Tags: video chat, tiviclick, webrtc, rtc, rtc video chat, video chat, text chat, chat, sales, support, customer support, consulting, buddypress, social network, chatroom, flash chat, flash video chat,  streaming.  
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 2.0
