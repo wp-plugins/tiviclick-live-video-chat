@@ -1,4 +1,4 @@
-=== TiviClick Video Chats for Every Site ===
+=== Tiviclick Video Chat for WordPress websites ===
 Contributors: Iftach Ben Zvi
 Donate link: http://tiviclick.com/
 Tags: video chat, tiviclick, webrtc, rtc, rtc video chat, video chat, text chat, chat, sales, support, customer support, consulting, buddypress, social network, chatroom, flash chat, flash video chat,  streaming.  
