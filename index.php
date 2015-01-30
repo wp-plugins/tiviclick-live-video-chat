@@ -5,7 +5,7 @@
 /*
 Plugin Name: TiviClick
 Plugin URI: http://www.tiviclick.com/addons/wordpress/tiviclick.zip
-Description: This plugin will add Tiviclick video chat to your wordpress website.<b/> A Tiviclick account is required.
+Description: This plugin will add Tiviclick video chat to your wordpress website.<br/> A Tiviclick account is required.
 Version: 2.0
 Author: TiviClick <admin@tiviclick.com>
 Author URI: http://www.tiviclick.com
