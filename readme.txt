@@ -84,8 +84,8 @@ Video Chat with customers transforms your website into the active front desk of 
 
 == Installation ==
 <strong>Tiviclick Video Chat Installation Guide</strong><br />
-<strong>Step 1:</strong> Register and open new account at <a href="http://tiviclick.com/admin/login.php#create" http://tiviclick.com/admin/login.php#create</a><br />
-<strong>Step 2:</strong> See operator's guide at <a href="http://tiviclick.com/docs/TiviClick_operqtion_guide-English.pdf" http://tiviclick.com/docs/TiviClick_operqtion_guide-English.pdf</a><br />
+<strong>Step 1:</strong> Register and open new account at <a href="http://tiviclick.com/admin/login.php#create"> http://tiviclick.com/admin/login.php#create</a><br />
+<strong>Step 2:</strong> See operator's guide at <a href="http://tiviclick.com/docs/TiviClick_operqtion_guide-English.pdf"> http://tiviclick.com/docs/TiviClick_operqtion_guide-English.pdf</a><br />
 <strong>Step 3:</strong> Integration of TiviClick in your WordPress website. It can be integrated in any of ways mentioned below:
 
 <strong>Customer Support mode</strong>
