@@ -83,12 +83,58 @@ Video Chat with customers transforms your website into the active front desk of 
 </ul>
 
 == Installation ==
-<ul>
-<li>Extract the plugin file to your plugins directory. Usually: <wordpress root>/wp-content/plugins</li>
-<li>Login to your wordpress and you will see on the side menu "TiviClick Settings".</li>
-<li>On TiviClick Settings you need to place your tiviclick account ID. You can find your account ID by Loggin in toT TiviClick, click "account" on the side Menu, then under "other information" the first parameter is "Account Code". This is your account ID.</li>
-<li>Your plugin is ready!</li>
-</ul>
+<strong>Tiviclick Video Chat Installation Guide</strong>
+<strong>Step 1:</strong> Register and open new account at <a href="http://tiviclick.com/admin/login.php#create" http://tiviclick.com/admin/login.php#create</a>
+<strong>Step 2:</strong> See operator's guide at <a href="http://tiviclick.com/docs/TiviClick_operqtion_guide-English.pdf" http://tiviclick.com/docs/TiviClick_operqtion_guide-English.pdf</a>
+<strong>Step 3:</strong> Integration of TiviClick in your WordPress website. It can be integrated in any of ways mentioned below:
+
+<strong>Customer Support mode</strong>
+(A non registered visitor create chat request to registered Agent):
+
+<strong>Automatic installation:</strong>
+1.	Login to your WordPress website as administrator.
+2.	Go to plugins page from admin panel.
+3.	Click on "Add New" link/button.
+4.	Search "Tiviclick" in search bar at top and press enter.
+5.	Result will show "Tiviclick" plugin where you can use "Install Now" option to install it in website.
+6.  Click the Activate Plugin link on the plugins page.
+
+<strong>For manual installation 1:</strong> 
+1.	Click <a href="https://downloads.wordpress.org/plugin/tiviclick-live-video-chat.2.0.zip">here</a> to download the file.
+2.	Login to your website and go to the plugins section of your admin panel.
+3.	Click the Add New button.
+4.	Under Install Plugins, click the Upload link.
+5.	Select the plugin zip file (tiviclick-live-video-chat.x.x.zip) from your computer then click the Install Now button.
+6.	You should see a message stating that the plugin was installed successfully.
+7.	Click the Activate Plugin link.
+
+<strong>For manual installation 2: (When using FTP or server)</strong>
+1.	Click <a href="https://downloads.wordpress.org/plugin/tiviclick-live-video-chat.2.0.zip">here</a> to download the file.
+2.	You should have cPanel or FTP access to the server where your WordPress is installed. 
+3.	In case of cPanel, copy the plugin zip file (tiviclick-live-video-chat.zip) up to your server, unzip it somewhere on the file system and copy the "tiviclick-live-video-chat" folder into the /wp-content/plugins directory of your WordPress installation.
+4.	In case of FTP, upload the "tiviclick-live-video-chat" folder directly to /wp-content/plugins directory of your WordPress website
+5.	Login to your website and go to the Plugins section of your admin panel.
+6.	Look for "TiviClick" and click Activate.
+
+<strong>Plugin Settings</strong>
+1.	Once the plugin have been successfully activated, you will see "TiviClick Settings" in left navigation.
+2.	Click on "TiviClick Settings" link and it will prompt a settings page where you need to put a TiviClick account Id.
+3.	TiviClick account Id can be retrieved from TiviClick website your account admin.
+4.	If you have already registered on TiviClick website then login to account or click <a href="http://tiviclick.com/admin/login.php#create">here</a> to register.
+5.	After log into the TiviClick website and click "Account" in left bar. Look for "Account Code".
+6.	Copy & paste the same account code in your "TiviClick Settings" page in WordPress admin panel and click save button to complete process.
+7.	You are done!
+
+TiviClick chat window will start reflecting at right bottom of your website screen.
+You and your registered agents can now login to <a href="http://www.tiviclick.com/">www.tiviclick.com</a> and become available to
+Receive chat requests from your website's visitors.
+
+For any further support please don't hesitate to contact us: <a href="mailto:support@tiviclick.com">support@tiviclick.com</a>
+
+<strong>Social media mode:</strong>
+(Video Chat between registered users like in Social media, Buddypress, Organizations, Dating)
+We provide a full API ready to go. Please contact us for support: <a href="mailto:support@tiviclick.com">support@tiviclick.com</a> 
+
 
 == Frequently Asked Questions ==
 = How do I create an account? =
