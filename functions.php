@@ -57,9 +57,8 @@ function fn_tiviclick_settings() {
 				  <tr valign="top">
 					<th class="row">Use site Language:</td>
 					<td>
-					  <input type="checkbox" value="1" id="lang_tiviclick" name="lang_tiviclick" <?php if (get_option('tiviclick_uselang','0') == '1') echo "checked=\"checked\"" ; ?>>
-					  <p class="description">When the checkbox is checked, Tiviclick plugin will use the langiage according to the Site's locale <br /> Otherwise, Tiviclick plugin will use the language defined in your Tiviclick account.<br>
-                        Please verify that the languages you are using are supported by Tiviclick, If they are not, please contact Tiviclick </p>
+					  <p class="description">Tiviclick plugin will use the language selected in your Tiviclick account/configure.<br>
+                        Please verify that the language you are using are supported by Tiviclick, If they are not, please contact Tiviclick <a href="mailto:support@tiviclick.com">support@tiviclick.com</a></p>
 					</td>
 				  </tr>
 				  <tr>
