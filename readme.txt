@@ -130,7 +130,7 @@ You and your registered agents can now login to <a href="http://www.tiviclick.co
 Receive chat requests from your website's visitors.
 
 For any further support please don't hesitate to contact us: <a href="mailto:support@tiviclick.com">support@tiviclick.com</a>
-
+  
 <strong>Social media mode:</strong>
 (Video Chat between registered users like in Social media, Buddypress, Organizations, Dating)
 We provide a full API ready to go. Please contact us for support: <a href="mailto:support@tiviclick.com">support@tiviclick.com</a>
