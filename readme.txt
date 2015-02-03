@@ -107,7 +107,7 @@ Video Chat with customers transforms your website into the active front desk of 
 5.	Select the plugin zip file (tiviclick-live-video-chat.x.x.zip) from your computer then click the Install Now button.<br />
 6.	You should see a message stating that the plugin was installed successfully.<br />
 7.	Click the Activate Plugin link.
-
+  
 <strong>For manual installation 2: (When using FTP or server)</strong><br />
 1.	Click <a href="https://downloads.wordpress.org/plugin/tiviclick-live-video-chat.2.0.zip">here</a> to download the file.<br />
 2.	You should have cPanel or FTP access to the server where your WordPress is installed. <br />
