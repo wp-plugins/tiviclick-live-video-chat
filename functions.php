@@ -91,7 +91,7 @@ function fn_tiviclick_script() {
    	if($acc_id!='') {
 		?>
 			<div id="tiviclick_external" class="<?PHP echo get_locale(); ?>"></div>        
-			<script type="text/javascript"  src="http://www.tiviclick.com/plugin/js/?account_id=<?php echo $acc_id.$lang_str; ?>" > </script>
+			<script type="text/javascript"  src="//www.tiviclick.com/plugin/js/?account_id=<?php echo $acc_id.$lang_str; ?>" > </script>
 		<?php
 	}
 }
