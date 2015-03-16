@@ -169,7 +169,7 @@ Support multiple languages, according to site's locale.
 Update  readme.txt and screenshots.
 
 = 2.1 =
-Support both http & https websites.
+Support both http and https websites.
 
 == Upgrade Notice ==
 = 2.1 = 
