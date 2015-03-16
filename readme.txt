@@ -168,6 +168,9 @@ Support multiple languages, according to site's locale.
 = 2.0 =
 Update  readme.txt and screenshots.
 
+= 2.1 =
+Support both http & https websites.
+
 == Upgrade Notice ==
-= 2.0 = 
+= 2.1 = 
 Fully compatible
